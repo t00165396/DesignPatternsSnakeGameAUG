@@ -11,10 +11,10 @@ import java.awt.image.*;//bufferStrategy
 import java.util.*;
 import javax.swing.*;
 import java.io.*;  
-import snakegam.Apple;
-import snakegam.SnakeObserver;
-import snakegam.Score;
-import snakegam.menu;
+import snakeg.Apple;
+import snakeg.SnakeObserver;
+import snakeg.Score;
+import snakeg.menu;
 
 /**
 	 * @author Liranda Krasniqi
