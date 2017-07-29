@@ -12,7 +12,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author Liranda Krasniqi
+ * @author Liranda Krasniqi.
  */
 public class Snake 
 {
